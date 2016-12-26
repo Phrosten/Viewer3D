@@ -1,8 +1,10 @@
 Viewer3D is an Android App I wrote to get into the basics of 3D Rendering.
 
+YouTube Demo: https://www.youtube.com/watch?v=07er_QxjD3Q
+
 In order to display an object you need to get a triangulated .obj file without normals
 and the corresponding .mtl file.
-You can do this by exporting a model in Blender as .OBJ and set the export settings accordingly.
+You can do this by exporting a model in Blender as .OBJ and setting the export settings accordingly.
 The Python3 Script I provided then translates these files to Java source code that can be utilized
 by other classes.
 
